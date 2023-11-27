@@ -5,7 +5,7 @@
    Cybersecurity Education & Certification Program
 </h1>
 
-[![Link do Curso](https://img.shields.io/badge/▶-000?style=for-the-badge&logo=movie&logoColor=E94D5F)](https://womcytrainingcenter.org/pt-br/cursos/)
+[![Link do Curso](https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a)](https://womcytrainingcenter.org/pt-br/cursos/)
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-75509b?style=for-the-badge)](https://womcytrainingcenter.org/pt-br/cursos/)
 
 <table>
