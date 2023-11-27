@@ -51,7 +51,7 @@
 <table align=right>
   <tr>
     <td>
-      <img width="60px" align="center" src="https://avatars.githubusercontent.com/Amanda-ribeiiro"/>
+      <img width="50px" align="center" src="https://avatars.githubusercontent.com/Amanda-ribeiiro"/>
     </td>
     <td align="left">
       <a href="https://github.com/Amanda-ribeiiro">
