@@ -12,6 +12,8 @@
 [![Link do Curso](https://img.shields.io/badge/▶-2a2a2a?style=for-the-badge&logo=movie&logoColor=2a2a2a)](https://womcytrainingcenter.org/pt-br/cursos/)
 [![Link do Curso](https://img.shields.io/badge/Acesse%20o%20Curso%20na%20Plataforma-75509b?style=for-the-badge)](https://womcytrainingcenter.org/pt-br/cursos/)
 
+[WOMCY NTT Academy](https://drive.google.com/file/d/1VJiKQAcFoLM63RKIKq92xg0B_ICqRBZg/view)
+
 <table>
   <thead>
     <tr>
@@ -47,6 +49,7 @@
 <br>
 <br>
 <br>
+
 
 <table align=right>
   <tr>
